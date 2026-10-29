@@ -13,6 +13,8 @@ that fall in the same general direction.
 
 Takes all inputs at once: profile length, number of electrodes, azimuth,
 latitude.
+
+Runs directly on Python IDE- Visual Studio Code/Anaconda/PyCharm etc.
 """
 
 import math
